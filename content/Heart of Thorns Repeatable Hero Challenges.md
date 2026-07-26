@@ -1,8 +1,15 @@
-[List of hero challenges in the Heart of Maguuma](https://wiki.guildwars2.com/wiki/List_of_hero_challenges_in_the_Heart_of_Maguuma) 
+---
+publish: true
+created: 2026-07-26T23:09:46.161+10:00
+modified: 2026-07-26T23:58:32.189+10:00
+---
+
+[List of hero challenges in the Heart of Maguuma](https://wiki.guildwars2.com/wiki/List_of_hero_challenges_in_the_Heart_of_Maguuma)
 
 Only repeatable Hero Challenges are listed.
 
 ---
+
 ## Verdant Brink:
 
 [Nightthistle Blossom](https://wiki.guildwars2.com/wiki/Nightthistle_Blossom)
@@ -13,9 +20,10 @@ Only repeatable Hero Challenges are listed.
 
 [Security Console](https://wiki.guildwars2.com/wiki/Security_Console)
 
-
 ---
+
 ## Auric Basin:
+
 [Young Mushrooms](https://wiki.guildwars2.com/wiki/Young_Mushrooms)
 
 [Suspicious Orichalcum](https://wiki.guildwars2.com/wiki/Suspicious_Orichalcum)
@@ -32,8 +40,8 @@ Only repeatable Hero Challenges are listed.
 
 [Balthazar's Statue](https://wiki.guildwars2.com/wiki/Balthazar%27s_Statue)
 
-
 ---
+
 ## Tangled Depths:
 
 [Egg Clutch](https://wiki.guildwars2.com/wiki/Egg_Clutch_\(Tangled_Depths\))
@@ -47,5 +55,3 @@ Only repeatable Hero Challenges are listed.
 [Nightthistle Bloom](https://wiki.guildwars2.com/wiki/Nightthistle_Bloom)
 
 [Troll Runestone](https://wiki.guildwars2.com/wiki/Troll_Runestone)
-
-
