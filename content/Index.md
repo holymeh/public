@@ -1,4 +1,4 @@
 Welcome!
 ## Instanced Content
 
-- [[Decima Kiting]]
+- [[Decima NM Kiting Guide]]
