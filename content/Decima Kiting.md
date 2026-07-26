@@ -7,7 +7,7 @@ Foreshock ➜ Mainshock (pizza attack) ➜ Fluxlance (orange arrow) ➜ Earthren
 
 Peal of Harmony stacks will be consumed when Decima casts Chorus of Thunder after every Mainshock (the pizza attack) in all phases, and the second Earthrend/Seismic Crash in P2+P3 only. The stacks are consumed *before* the Fluxlances appear. For each Peal of Harmony stack, the closest uncharged conduit to the kiter (furthest player from Decima) receives a Thunder and is charged.
 
-What this means is that as the kiter, you want to position near convenient conduits close to the melee sub, and then when you see them get Thundered walk/blink your arrow to an out of the way location or nearby the ranged sub to heal them.
+What this means is that as the kiter, you want to position near convenient conduits close to the melee sub, and then when you see them get Thundered walk/blink your arrow to an out of the way location and/or near to the ranged sub to heal them.
 
 **PHASE 1**
 
