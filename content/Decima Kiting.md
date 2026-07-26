@@ -1,6 +1,6 @@
 ## Decima Kiting Guide
 
-Decima works a little differently in NM and CM, this is a strategy for NM kiting designed to minimise movement. Fast groups will have no required rotation in any phase. Slower groups will have only one rotation, right after the second Focused Fluxlance (green arrow).
+Decima works a little differently in NM and CM, this is a strategy for NM kiting designed to minimise movement for all players except the kiter. This guide assumes basic fight and kiting knowledge and instead focuses on positioning and charging ideal conduits. Fast groups will have no required rotation in any phase. Slower groups will have only one rotation, right after the second Focused Fluxlance (green arrow).
 
 **Decima Attack Chain**
 Foreshock ➜ Mainshock (pizza attack) ➜ Fluxlance (orange arrow) ➜ Earthrend/Seismic Crash ➜ Dancing Sparks (green circles) ➜ Earthrend/Seismic Crash ➜ Fluxlance (red arrow)
