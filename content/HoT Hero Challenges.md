@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26T23:09:46.161+10:00
-modified: 2026-07-27T00:33:02.075+10:00
+modified: 2026-07-27T00:35:56.017+10:00
 ---
 
 [List of hero challenges in the Heart of Maguuma](https://wiki.guildwars2.com/wiki/List_of_hero_challenges_in_the_Heart_of_Maguuma)
@@ -10,7 +10,7 @@ Only repeatable Hero Challenges are listed - good for farming HoT map currencies
 
 ---
 
-## Verdant Brink:
+## Verdant Brink
 
 [Nightthistle Blossom](https://wiki.guildwars2.com/wiki/Nightthistle_Blossom)
 
@@ -22,7 +22,7 @@ Only repeatable Hero Challenges are listed - good for farming HoT map currencies
 
 ---
 
-## Auric Basin:
+## Auric Basin
 
 [Young Mushrooms](https://wiki.guildwars2.com/wiki/Young_Mushrooms)
 
@@ -42,7 +42,7 @@ Only repeatable Hero Challenges are listed - good for farming HoT map currencies
 
 ---
 
-## Tangled Depths:
+## Tangled Depths
 
 [Egg Clutch](https://wiki.guildwars2.com/wiki/Egg_Clutch_\(Tangled_Depths\))
 
