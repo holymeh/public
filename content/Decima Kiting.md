@@ -5,7 +5,7 @@ Decima works a little differently in NM and CM, this is a strategy for NM kiting
 **Decima Attack Chain**
 Foreshock ➜ Mainshock (pizza attack) ➜ Fluxlance (orange arrow) ➜ Earthrend/Seismic Crash ➜ Dancing Sparks (green circles) ➜ Earthrend/Seismic Crash ➜ Fluxlance (red arrow)
 
-Peal of Harmony and Peal of Discord stacks will be consumed when Decima casts Chorus of Thunder after every Mainshock (the pizza attack) in all phases, and the second Earthrend/Seismic Crash in P2+P3 only. The stacks are consumed *before* the Fluxlances appear. For each Peal of Harmony stack, the closest uncharged conduit to the kiter (furthest player from Decima) receives a Thunder and is charged.
+Peal of Harmony stacks will be consumed when Decima casts Chorus of Thunder after every Mainshock (the pizza attack) in all phases, and the second Earthrend/Seismic Crash in P2+P3 only. The stacks are consumed *before* the Fluxlances appear. For each Peal of Harmony stack, the closest uncharged conduit to the kiter (furthest player from Decima) receives a Thunder and is charged.
 
 What this means is that as the kiter, you want to position near convenient conduits close to the melee sub, and then when you see them get Thundered walk/blink your arrow to an out of the way location or nearby the ranged sub to heal them.
 
