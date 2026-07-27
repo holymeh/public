@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.538+10:00
-modified: 2026-07-27T14:48:38.588+10:00
+modified: 2026-07-27T14:53:46.040+10:00
 ---
 
 Bézout's Identity states that for any integers $m, n \in Z, \exists \ z_{1}, z_{2} \in Z$ such that $z_{1}m + z_{2}n = \gcd(m, n)$.
@@ -39,6 +39,7 @@ $z_{1} = -1, z_{2} = 2$
 1. Find the Bézout coefficients for $24$ and $56$.
 
 $56 = 2 \times 24 + 8$
+
 $24 = 3 \times 8$
 
 $\gcd(56, 24) = \gcd(28, 8) = 8$
@@ -74,19 +75,27 @@ $= 1 \times 44 - 1 \times (1 \times 75 - 1 \times 44)$
 $= 2 \times 44 - 1 \times 75$
 
 $5 = 1 \times 31 - 2 \times 13$
+
 $= 1 \times (1 \times 75 - 1 \times 44) - 2 \times (2 \times 44 - 1 \times 75)$
+
 \= $3 \times 75 - 5 \times 44$
 
 $3 = 1 \times 13 - 2 \times 5$
+
 $= 1 \times (2 \times 44 - 1 \times 75) - 2 \times (3 \times 75 - 5 \times 44)$
+
 $= -7 \times 75 + 12 \times 44$
 
 $2 = 1 \times 5 - 1 \times 3$
+
 $= 1 \times (3 \times 75 - 5 \times 44) - 1 \times (-7 \times 75 + 12 \times 44)$
+
 $= 10 \times 75 - 17 \times 44$
 
 $1 = 1 \times 3 - 1 \times 2$
+
 $= 1 \times (-7 \times 75 + 12 \times 44) - 1 \times (10 \times 75 - 17 \times 44)$
+
 $= -17 \times 75 + 29 \times 44$
 
 $z_{1} = -17, z_{2} = 29$
