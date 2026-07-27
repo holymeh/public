@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.553+10:00
-modified: 2026-07-27T00:53:21.140+10:00
+modified: 2026-07-27T14:44:42.176+10:00
 ---
 
 Expressing a composite number as a **product of powers of prime numbers** is called **prime decomposition**. For example:
@@ -25,12 +25,14 @@ $$
 
 Therefore each factor must be of the form
 
-$$2^{\alpha} \times 7^{\beta} \times 11^{\gamma}, \quad \alpha = 0,1,2,3,4,5, \quad \beta = 0,1,2, \quad \gamma = 0,1
+$$
+2^{\alpha} \times 7^{\beta} \times 11^{\gamma}, \quad \alpha = 0,1,2,3,4,5, \quad \beta = 0,1,2, \quad \gamma = 0,1
 $$
 
 The factors of 17248 can be systematically listed as follows:
 
-$$\begin{array}{cccccc}
+$$
+\begin{array}{cccccc}
 1 & 2 & 2^{2} & 2^{3} & 2^{4} & 2^{5} \\
 7 & 2 \times 7 & 2^{2} \times 7 & 2^{3} \times 7 & 2^{4} \times 7 & 2^{5} \times 7 \\
 7^{2} & 2 \times 7^{2} & 2^{2} \times 7^{2} & 2^{3} \times 7^{2} & 2^{4} \times 7^{2} & 2^{5} \times 7^{2} \\
