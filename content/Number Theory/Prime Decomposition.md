@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.553+10:00
-modified: 2026-07-27T14:47:16.713+10:00
+modified: 2026-07-27T14:55:42.311+10:00
 ---
 
 Expressing a composite number as a **product of powers of prime numbers** is called **prime decomposition**. For example:
@@ -105,21 +105,24 @@ Hence there are $30$ possible factors of $720$.
 
 The number must be a multiple of $15$ and $21$.
 
-$$$\begin{array}  \ 15 = 3 \times 5 \ 21 = 3 \times 7 \
-LCM(15, 21) = 3 \times 5 \times 7 = 105 \end{array}$$
-Thus $n$ must be a multiple of $105$.
-$$$
+$$
+\begin{array}  \ 15 = 3 \times 5 \\ 21 = 3 \times 7 \\
+LCM(15, 21) = 3 \times 5 \times 7 = 105 \end{array}
+$$
 
+Thus $n$ must be a multiple of $105$.
+
+$$
 \begin{array} \ n=3^{\alpha} \times 5^{\beta} \times 7^{\gamma}, \ \alpha, \beta, \gamma \ge 1 \\
 (\alpha+1)(\beta+1)(\gamma+1)=8 \\
 \alpha = 1, \ \beta = 1, \ \gamma = 1
 \end{array}
-
 $$
+
 ---
+
 ## See Also
 
 [[Number Theory/Lowest Common Multiple]]
 [[Number Theory/Greatest Common Divisor]]
 [[Number Theory/Fundamental Theorem of Arithmetic]]
-$$
