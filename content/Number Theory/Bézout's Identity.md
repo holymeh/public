@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.538+10:00
-modified: 2026-07-27T00:45:55.087+10:00
+modified: 2026-07-27T14:48:38.588+10:00
 ---
 
 Bézout's Identity states that for any integers $m, n \in Z, \exists \ z_{1}, z_{2} \in Z$ such that $z_{1}m + z_{2}n = \gcd(m, n)$.
@@ -50,11 +50,17 @@ $z_{1} = 1, z_{2} = -2$
 2. Find the Bézout coefficients for $75$ and $44$.
 
 $75 = 1 \times 44 + 31$
+
 $44 = 1 \times 31 + 13$
+
 $31 = 2 \times 13 + 5$
+
 $13 = 2 \times 5 + 3$
+
 $5 = 1 \times 3 + 2$
+
 $3 = 1 \times 2 + 1$
+
 $2 = 2 \times 1$
 
 $\gcd(75, 44) = \gcd(44, 31) = \gcd(31, 13) = \gcd(13, 5) = \gcd(5, 3) = \gcd(3, 2) = \gcd(2, 1) = 1$
@@ -62,7 +68,9 @@ $\gcd(75, 44) = \gcd(44, 31) = \gcd(31, 13) = \gcd(13, 5) = \gcd(5, 3) = \gcd(3,
 $31 = 1 \times 75 - 1 \times 44$
 
 $13 = 1 \times 44 - 1 \times 31$
+
 $= 1 \times 44 - 1 \times (1 \times 75 - 1 \times 44)$
+
 $= 2 \times 44 - 1 \times 75$
 
 $5 = 1 \times 31 - 2 \times 13$
