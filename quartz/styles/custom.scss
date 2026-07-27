@@ -1,3 +1,10 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+em {
+  color: #A8D8F0; // pale blue for italics
+}
+
+strong {
+  color: #C1440E; // deep orange-red for bold
+}
