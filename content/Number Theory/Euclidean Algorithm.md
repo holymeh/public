@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.548+10:00
-modified: 2026-07-27T00:52:44.605+10:00
+modified: 2026-07-27T15:06:58.523+10:00
 ---
 
 ## Greatest Common Divisor
@@ -83,21 +83,27 @@ Thus $\gcd(m,n) = \gcd(n,r)$
 
 1. Find the greatest common divisor of $270$ and $192$.
 
-$$$\begin{array} \
+$$
+\begin{array} \
 \gcd(270, 192) \\
 270 = 1 \times 192 + 78 \\
 192 = 2 \times 78 + 36 \\
 78 = 2 \times 36 + 6 \\
 36 = 6 \times 6 \\
 \gcd(270, 192) = \gcd(6, 0) = 6
-\end{array}$$
-2.  Find the greatest common divisor of $-120$ and $-36$. 
-$$ \begin{array} \
+\end{array}
+$$
+
+2. Find the greatest common divisor of $-120$ and $-36$.
+
+$$
+\begin{array} \
 \gcd(-120, -36) \\
 -120 = 4 \times -36 + 24 \\
 -36 = -2 \times 24 + 12 \\
 24 = 2 \times 12 \\
 \gcd(-120, -36) = \gcd(12, 0) = 12
-\end{array}$$
-*Note: it would be easier to find $\gcd(120, 36)$ as this will equal $\gcd(-120, -36)$.*
-$$$
+\end{array}
+$$
+
+_Note: it would be easier to find $\gcd(120, 36)$ as this will equal $\gcd(-120, -36)$._
