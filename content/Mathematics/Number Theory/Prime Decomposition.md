@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.553+10:00
-modified: 2026-08-02T19:46:05.463+10:00
+modified: 2026-08-02T20:36:04.235+10:00
 ---
 
 Expressing a composite number as a **product of powers of prime numbers** is called **prime decomposition**. For example:
@@ -86,7 +86,7 @@ Each pair multiplies to $n$ and there are $n/d$ pairs.
 
 ## Examples
 
-1. Determine the number of factors that $720$ has.
+**Determine the number of factors that $720$ has.**
 
 $$
 720 = 2^{4} \times 3^{2} \times 5
@@ -101,7 +101,7 @@ There are $5$ possible values for ${\alpha}$, $3$ possible values for ${\beta}$,
 $(4+1)(2+1)(1+1) = 5\cdot3\cdot2 = 30$
 Hence there are $30$ possible factors of $720$.
 
-2. The natural number $n$ has exactly eight different factors. Two of these factors are $15$ and $21$. What is the value of $n$?
+**The natural number $n$ has exactly eight different factors. Two of these factors are $15$ and $21$. What is the value of $n$?**
 
 The number must be a multiple of $15$ and $21$.
 
