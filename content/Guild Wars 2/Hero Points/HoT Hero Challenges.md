@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26T23:09:46.161+10:00
-modified: 2026-07-27T00:35:56.017+10:00
+modified: 2026-08-02T19:57:21.237+10:00
 ---
 
 [List of hero challenges in the Heart of Maguuma](https://wiki.guildwars2.com/wiki/List_of_hero_challenges_in_the_Heart_of_Maguuma)

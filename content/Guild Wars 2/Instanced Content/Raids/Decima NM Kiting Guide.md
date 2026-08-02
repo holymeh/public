@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26T20:50:04.295+10:00
-modified: 2026-07-27T14:37:54.291+10:00
+modified: 2026-08-02T19:57:27.709+10:00
 ---
 
 ## Decima NM Kiting Guide
