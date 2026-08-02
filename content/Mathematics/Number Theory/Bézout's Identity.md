@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.538+10:00
-modified: 2026-07-27T14:53:46.040+10:00
+modified: 2026-08-02T20:41:24.350+10:00
 ---
 
 Bézout's Identity states that for any integers $m, n \in Z, \exists \ z_{1}, z_{2} \in Z$ such that $z_{1}m + z_{2}n = \gcd(m, n)$.
@@ -18,9 +18,14 @@ Bézout's Identity says:
 ## Finding Bézout Coefficients
 
 Use the Euclidean algorithm to find $\gcd(36, 20)$:
-$36 = 1 \times 20 + 16$
-$20 = 1 \times 16 + 4$
-$16 = 4 \times 4$
+
+$$
+\begin{array}{c}  \
+36 = 1 \times 20 + 16 \\
+20 = 1 \times 16 + 4 \\
+16 = 4 \times 4 \\
+\end{array}
+$$
 
 $\gcd(36, 20) = \gcd(20,16) = \gcd(16,4) = 4$
 
