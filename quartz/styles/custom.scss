@@ -1,10 +1,15 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+h1, h2, h3, h4, h5, h6 {
+  color: #E8290A; // strong red-orange, more red-leaning
+}
+
 em {
-  color: #A8D8F0; // pale blue for italics
+  color: #E8A33D; // yellowy-orange for italics
 }
 
 strong {
-  color: #C1440E; // deep orange-red for bold
+  color: #C1440E; // deep orange-red for bold (from before)
 }
