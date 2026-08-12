@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T00:45:21.553+10:00
-modified: 2026-08-02T20:37:26.885+10:00
+modified: 2026-08-12T11:55:12.354+10:00
 ---
 
 Expressing a composite number as a **product of powers of prime numbers** is called **prime decomposition**. For example:
@@ -94,7 +94,8 @@ $$
 
 Therefore each factor must be of the form
 
-$$2^{\alpha} \times 3^{\beta} \times 5^{\gamma}, \quad \alpha = 0,1,2,3,4 \quad \beta = 0,1,2 \quad \gamma = 0,1
+$$
+2^{\alpha} \times 3^{\beta} \times 5^{\gamma}, \quad \alpha = 0,1,2,3,4 \quad \beta = 0,1,2 \quad \gamma = 0,1
 $$
 
 There are $5$ possible values for ${\alpha}$, $3$ possible values for ${\beta}$, and $2$ possible values for ${\gamma}$.
