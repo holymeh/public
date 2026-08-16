@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-17T07:25:14.937+10:00
-modified: 2026-08-17T07:25:52.807+10:00
+modified: 2026-08-17T07:28:47.768+10:00
 ---
 
 **Trio Transitions**
@@ -19,7 +19,7 @@ modified: 2026-08-17T07:25:52.807+10:00
 - Mesmer 2 mimic opens to get squad to archway.
   ![[Assets/Pasted image 20260817064305.png|442]]
 - Kill southern (2 bandits) and northern (6 bandits) groups, squad takes thief port.
-- Both mesmers place port on the cliff. Sub 1 glides south, sub 2 glides north (1 mesmer in each). Kill bandits, mesmer 2 opens port up to cliff, mesmer 1 opens port from cliff into boss arena.
+- Both mesmers place port on the cliff. Sub 1 glides north, sub 2 glides south (1 mesmer in each). Kill bandits, mesmer 1 opens port up to cliff, mesmer 2 opens port from cliff into boss arena.
   ![[Assets/Pasted image 20260817072412.png|434]]![[Assets/Pasted image 20260817072430.png|434]]
 
 ---
