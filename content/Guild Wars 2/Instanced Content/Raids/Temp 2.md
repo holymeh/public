@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-17T07:25:14.937+10:00
-modified: 2026-08-17T07:29:23.000+10:00
+modified: 2026-08-17T07:32:17.538+10:00
 ---
 
 **Trio Transitions**
@@ -12,7 +12,7 @@ modified: 2026-08-17T07:29:23.000+10:00
 - Open portal at steps, mesmer 1 takes.
 - Place portal on cliff at 5:10 remaining, glide in, help with Zane.
 - Open portal at steps, mesmer 1, mesmer 2 and thief take.
-- Place portals in the positions shown below at 3:15, both glide down to help Narella.
+- Mesmers place portals in the positions shown below at 3:15, both glide down to help Narella.
 - Place thief portal shown below at 2:51 (saboteur warning), move to archway.
   ![[Assets/Pasted image 20260817063822.png|443]]
 - After Narella death, mesmer 1 mimic opens to get squad to cliff.
