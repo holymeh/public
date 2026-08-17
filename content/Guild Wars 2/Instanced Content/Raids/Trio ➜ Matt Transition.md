@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-17T07:25:14.937+10:00
-modified: 2026-08-17T11:36:29.148+10:00
+modified: 2026-08-17T11:38:58.579+10:00
 ---
 
 **Trio Transitions**
@@ -21,5 +21,3 @@ modified: 2026-08-17T11:36:29.148+10:00
 - Kill southern (2 bandits) and northern (6 bandits) groups, squad takes thief port.
 - Both mesmers place port on the cliff. Sub 1 glides north, sub 2 south (1 mesmer in each). Kill bandits, mesmer 1 opens port up to cliff, mesmer 2 opens port from cliff into boss arena.
   ![[Assets/Pasted image 20260817072412.png|434]]![[Assets/Pasted image 20260817072430.png|434]]
-
----
