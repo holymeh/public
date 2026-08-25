@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-25T16:04:21.373+10:00
-modified: 2026-08-25T20:16:21.542+10:00
+modified: 2026-08-25T20:39:23.105+10:00
 ---
 
 **Phases**
@@ -37,7 +37,6 @@ modified: 2026-08-25T20:16:21.542+10:00
 60%-0%: 2x auto-attack chain -> Unbridled Tempest (shockwave) -> Ion Shield (coordinated cc) -> 1x auto-attack chain -> Fury of the Storm (corners). By holding coordinated CC phase until Sabir is sub 40%, can skip a final shockwave (with low dps) or a final shockwave and a prior free cc phase (with high dps).
 
 **Paralyzing Wisps**
-
 Large wisps with a defiance bar (600). Low armour.
 Attack with _Venomous Voltage_, which does damage, immobilizes for 0.5 seconds, applies a stack of _Violent Currents_ to the player hit, and applies a stack of _momentum_ to the wisp (increases attack speed and damage dealt by 5% per stack, and stacks up to 20 times). When defiance is broken, _momentum_ stacks are reset and the wisp is stunned for 15s. If left alive for 30 seconds, spawns a _Voltaic Wisp_ next to itself.
 
