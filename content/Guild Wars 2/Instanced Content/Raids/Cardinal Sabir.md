@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-25T16:04:21.373+10:00
-modified: 2026-08-25T16:06:09.289+10:00
+modified: 2026-08-25T20:12:16.769+10:00
 ---
 
 **Phases**
@@ -13,18 +13,28 @@ modified: 2026-08-25T16:06:09.289+10:00
 ![[Assets/Pasted image 20260613224428.png]]
 
 90%: free cc (15,000/18,000CM).
-80%: jumping puzzle: four small platforms, 1 large (4 white tornadoes + 1 death tornado), 1 more small platform. On the second platform, two tornadoes trace the interior path and four tornadoes trace the exterior path - all anticlockwise.\
+
+80%: jumping puzzle: four small platforms, 1 large (4 white tornadoes + 1 death tornado), 1 more small platform. On the second platform, two tornadoes trace the interior path and four tornadoes trace the exterior path - all anticlockwise.
+
 75%: shockwave.
+
 70%: free cc.
+
 65% shockwave.
+
 60%: jumping puzzle: four small platforms, 1 large (4 white tornadoes + 2 death tornado), 1 more small platform. On the third platform all tornados move clockwise.
+
 50%: the titanic twister spawns west and traverses the outer circular path clockwise.
+
 40%: west platform wisp spawns - can SAK across the gap to break it, kill it and glide back. Wisps respawn after 40s.
+
 30%: north platform wisp spawns.
+
 20%: east platform wisp spawns.
+
 10%: south platform wisp spawns.
 
-60%-0%: 2x auto-attack chain -> Unbridled Tempest (shockwave) -> Ion Shield (coordinated cc) -> 1x auto-attack chain -> Fury of the Storm (corners). Changes slightly with Sabir's cooldowns/health.
+60%-0%: 2x auto-attack chain -> Unbridled Tempest (shockwave) -> Ion Shield (coordinated cc) -> 1x auto-attack chain -> Fury of the Storm (corners). By holding coordinated CC phase until Sabir is sub 40%, can skip a final shockwave (with low dps) or a final shockwave and a prior free cc phase (with high dps).
 
 **Paralyzing Wisps**
 Large wisps with a defiance bar (600). Low armour.
@@ -60,6 +70,9 @@ An effect applied to Sabir during coordinated cc (3000/3500CM). Increases outgoi
 **Stasis Cage**
 An effect that is gained during Cardinal Sabir when downed when the challenge mote is active. It reduces incoming healing by 90% for 6 seconds.
 
+**Miscellaneous**
+Sabir cleanses conditions on phase transition.
+
 ---
 
 ## Portals
@@ -68,8 +81,6 @@ An effect that is gained during Cardinal Sabir when downed when the challenge mo
 
 - At 90% (start of first CC phase), go back down 1 platform to place portal. Open on fourth add platform (last platform before death tornado).
 - At 70% (start of second CC phase), go back down 2 platforms to place portal. Open on fourth add platform (last platform before death tornado).
-
-Sabir cleanses conditions on phase transition.
 
 ---
 
@@ -82,5 +93,7 @@ This limit can be overcome by triggering a load screen, which requires at least 
 Portal Entre and Portal Exeunt can be placed precisely 5,000 range apart, and the entry can be taken on the side of the portal furthest from the exit, thus adding the radius of the portal to the distance traveled and triggering the load screen.
 
 [Example log](https://dps.report/Xskf-20260618-034457_sabir)
+
 [\[SC\] Cardinal Sabir 6:51 left | pChrono](https://www.youtube.com/watch?v=_kp3C5MmFQ0)
+
 [Explanation](https://www.youtube.com/watch?v=WKQQuxN4ZP4)
