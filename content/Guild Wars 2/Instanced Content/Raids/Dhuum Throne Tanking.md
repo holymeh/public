@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-25T10:37:47.269+10:00
-modified: 2026-08-25T10:41:58.714+10:00
+modified: 2026-08-25T10:47:17.110+10:00
 ---
 
 ## Throne Tanking
@@ -23,7 +23,7 @@ modified: 2026-08-25T10:41:58.714+10:00
 - 7:07 move to throne to bait 7:05 lesser. After lesser, move boss between arrow and triangle, face him inwards, group stack behind boss with backs to corner.
 - 6:58 bomb 3 spawns. 6:45 bomb 3 expires.
 - Open portal behind boss at 6:50, G3 player takes portal back, bomb 3 player takes out, lets the bomb expire, takes back.
-- 6:42 bomb 4 spawns. Take portal out or walk out, detonates at 6:35, rifle 5 back to group for greater.
+- 6:42 bomb 4 spawns. Take portal out or walk out, _detonates at 6:35_, rifle 5 back to group for greater.
 - 6:25 greater death mark 1. Non-kite mesmer places group anti-suck portals.
 
 **Pre-Soulsplit 2**
