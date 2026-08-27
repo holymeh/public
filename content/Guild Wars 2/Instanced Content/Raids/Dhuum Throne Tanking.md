@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-25T10:37:47.269+10:00
-modified: 2026-08-25T15:56:19.363+10:00
+modified: 2026-08-27T22:14:52.632+10:00
 ---
 
 ## Throne Tanking
@@ -11,7 +11,7 @@ modified: 2026-08-25T15:56:19.363+10:00
 - Blow up all bombs as soon as safely possible.
 - Non-kite mesmer places portal at square reaper after killing enforcer there.
 - After killing the final enforcer by swirl, group immediately moves to throne. Don't be within 1,200 range of triangle.
-- Mass invisibility on triangle to stealth triangle and arrow at 8:00-7:55. Once an enforcer has lost its target it won't change back.
+- Mass invisibility on triangle to stealth triangle and arrow any time after 8:07. Once an enforcer has lost its target it won't change back. Most stealth applications on reapers are extended to a fixed 20s.
 
 **Pre-Soulsplit 1**
 
